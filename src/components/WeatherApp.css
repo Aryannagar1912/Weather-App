@@ -1,0 +1,23 @@
+.weatherApp {
+  text-align: center;
+}
+
+body,
+.app-background {
+  background-image: url("https://images.unsplash.com/photo-1618952281495-4ab1c05a8ff9?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); /* Update with the correct path */
+  background-size: cover; /* Ensures image covers the full screen */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-position: center; /* Centers the image */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  overflow: hidden; /* Prevents scrolling if the image exceeds the viewport */
+}
+
+h2 {
+  font-size: 40px;
+  color: blue;
+  background-color: white;
+  display: inline-block;
+  border: 2px solid blue;
+  box-shadow: 0 4px 10px rgba(0, 0, 255, 0.5);
+}
