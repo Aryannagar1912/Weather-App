@@ -20,3 +20,5 @@ A sleek, responsive weather app built using React and Material UI. This app prov
 - **Frontend**: React, Material UI
 - **API**: OpenWeatherMap API
 - **Styling**: Material UI components for a consistent, attractive design
+
+![Weather App Screenshot](./WeatherAppScreenShot.png)
